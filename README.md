@@ -7,6 +7,5 @@ A conference call implementation using WebRTC, Socket.io and Node.js.
 - `cd src`
 - `node app.js`
 
- 
 # Demo
-You can test at 
+You can test at https://bitcaller.herokuapp.com/
